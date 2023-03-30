@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Prakhar</h1>
 <h3 align="center">Passionate about Machine Learning| IIT (BHU) Varanasi'26</h3>
 
-- 🔭 I’m currently working on **Transport Optimization using Machine Learning. Additionally, studying about Outbreak prediction through spatial modelling.**
+- 🔭 I’m currently reading  about **Transport Optimization using Machine Learning.**
 
 - 📝 I regularly write articles on [Medium.com](Medium.com)
 
