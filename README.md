@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Prakhar</h1>
 <h3 align="center">Passionate about Machine Learning | IIT (BHU) Varanasi'26</h3>
 
-- 🔭 I’m currently reading  about **Transport Optimization using Machine Learning.**
+- 🔭 I’m currently reading  about **Computer Vision and Web development.**
 
 - 📝 I regularly write articles on <a href="https://www.theaidream.com/">aidream.com</a>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryanpro2005@gmail.com**
 
-- ⚡ Fun fact **I lose the track of time when I am into something (interesting)**
+- ⚡ Fun fact **I lose track of time when I am into something (interesting)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
