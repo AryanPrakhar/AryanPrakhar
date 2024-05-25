@@ -13,7 +13,7 @@ Internships and research projects:
 - OpenLocus
 - Code4GovTech (open source program for Digital Public Infra so (scale_of_work)++
 - Leiden University
-- Tracking project for General Election of Varnasi constituency. 
+- Tracking project for General Election of Varanasi constituency. 
 
 Things might be too aspirational on my end but my habit of crazy hustle helps. I am writing this at 4am IST. Lowkey: I can work at US times.
 
