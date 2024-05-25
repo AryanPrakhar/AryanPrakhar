@@ -10,7 +10,9 @@
 - DBMS: CS 186 Berkley
 
 Internships and research projects: OpenLocus, Code4GovTech (open source program for Digital Public Infra so (scale_of_work)++, Leiden University, Tracking project for General Election of Varnasi constituency. 
-Things might be too aspirational on my end but my habit of crazy hustle helps. I am writing this at 4am IST.  Aim for the Stars, they said!
+Things might be too aspirational on my end but my habit of crazy hustle helps. I am writing this at 4am IST. Lowkey: I can work at US times.
+
+Aim for the Stars, they said!
 
 #### Bucket List
 -  Mark Joshi, 50 Challenging Problems
@@ -18,7 +20,7 @@ Things might be too aspirational on my end but my habit of crazy hustle helps. I
 -  Xinfeng Zhou
 -  Vacations in Switzerland, Hawaii maybe :) 
   
-  📫 How to reach me **aryanpro2005@gmail.com** or ping me at LinkedIn preferably
+  📫 How to reach me **aryanpro2005@gmail.com** or ping me at LinkedIn preferably.
 
 <p align="left">
 </p>
