@@ -1,12 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aryan Prakhar</h1>
 <h3 align="center">Passionate about Machine Learning | IIT (BHU) Varanasi'26</h3>
+<h4> I am currently immersed in a diverse set of fields to hone my skills in competitive programming and deep learning. Here’s a snapshot of what I’m up to this summer:</h6>
 
+- Daily challenges on Codeforces and Leetcode.
+- Practical deep learning courses (Fast.ai)
+- Advanced courses in NLP (CS224N), deep learning systems (DLSY) , and generative models (CS236)
+- Probablistic Machine Learning (Philipp Hennig, Tübingen)
+- OS: Berkeley CS 162
+- DBMS: CS 186 Berkley
 
-- 🌱 I’m currently learning **Deep Learning**
+Internships and research projects: OpenLocus, Code4GovTech (open source program for Digital Public Infra so (scale_of_work)++, Leiden University, Tracking project for General Election of Varnasi constituency. 
+Things might be too aspirational on my end but my habit of crazy hustle helps. I am writing this at 4am IST.  Aim for the Stars, they said!
 
-- 📫 How to reach me **aryanpro2005@gmail.com**
+#### Bucket List
+-  Mark Joshi, 50 Challenging Problems
+-  Understand market making
+-  Xinfeng Zhou
+-  Vacations in Switzerland, Hawaii maybe :) 
+  
+  📫 How to reach me **aryanpro2005@gmail.com** or ping me at LinkedIn preferably
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
