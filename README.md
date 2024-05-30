@@ -13,8 +13,6 @@ Did bunch of internships and research projects too :)
 
 Things might be too aspirational on my end but my habit of crazy hustle helps. I am writing this at 4am IST. Lowkey: I can work at US times.
 
-Aim for the Stars, they said!
-
 #### Bucket List
 -  Mark Joshi, 50 Challenging Problems
 -  Understand market making
