@@ -2,10 +2,32 @@
 
 ### My name is Aryan Prakhar
 
+<h1 align="center">🌿 FLORA NOTES</h1>
+<h2 align="center">Have a look on my latest project :)</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-prakhar)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1IeQd_4AAAAJ&hl=en
-)
+<p align="center">
+  <a href="https://flora-notes.vercel.app/">
+    <img src="https://img.shields.io/badge/OPEN-2f855a?style=for-the-badge" height="60" />
+  </a>
+</p>
+
+<h2 align="center">
+  Got good early feedback →
+  <a href="https://www.linkedin.com/posts/aryan-prakhar_startup-productivity-activity-7422673268114952193-VDKA">
+    LinkedIn release post
+  </a>
+</h2>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/aryan-prakhar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=1IeQd_4AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🎓 About Me
 
