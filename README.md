@@ -3,7 +3,7 @@
 ### My name is Aryan Prakhar
 
 <h1 align="center">🌿 FLORA NOTES</h1>
-<h2 align="center">Have a look on my latest project :)</h2>
+<h2 align="center">Have a look at my latest project :)</h2>
 
 <p align="center">
   <a href="https://flora-notes.vercel.app/">
