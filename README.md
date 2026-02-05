@@ -46,10 +46,10 @@
   *Data-driven scientific discovery using LLM Agents* (contribution)
 
 ## 💼 Professional Experience
-
-#### OpenLocus | Machine Learning Engineer Intern
+#### NwN | AI Engineer Intern
 #### Samagra | Code4GovTech DMP'24 (open source program)
-#### NwN | Upcoming DS Intern Summer'25
+#### OpenLocus | Machine Learning Engineer Intern
+
 
 ## ⚡ Fun Facts
 I am a avid traveller. From the beaches on the western flank to the heights of the Himalayas, I hunt for the offbeat locations. Aspire to take this global.
