@@ -2,23 +2,6 @@
 
 ### My name is Aryan Prakhar
 
-<h1 align="center">🌿 FLORA NOTES</h1>
-<h2 align="center">Have a look at my latest project :)</h2>
-
-<p align="center">
-  <a href="https://flora-notes.vercel.app/">
-    <img src="https://img.shields.io/badge/OPEN-2f855a?style=for-the-badge" height="60" />
-  </a>
-</p>
-
-<h2 align="center">
-  Got good early feedback →
-  <a href="https://www.linkedin.com/posts/aryan-prakhar_startup-productivity-activity-7422673268114952193-VDKA">
-    LinkedIn release post
-  </a>
-</h2>
-
-
 <p align="center">
   <a href="https://linkedin.com/in/aryan-prakhar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
