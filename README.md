@@ -1,46 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# hey, aryan here 👾
 
-### My name is Aryan Prakhar
+i write code, break things, and published a paper at ICLR once.
 
-<p align="center">
-  <a href="https://linkedin.com/in/aryan-prakhar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=1IeQd_4AAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-</p>
+currently solving retrieval @ **Linux Foundation**  
+previously: ai eng @ Nation with Namo · open source @ Code for GovTech · ml @ OpenLocus.ai
 
+---
 
-## 🎓 About Me
+**into:** agentic systems · retrieval · competitive programming at 2am · travelling to offbeat places  
+**not into:** writing docs · meetings that could've been an email
 
-- 🎓 Senior at **Indian Institute of Technology (BHU), Varanasi**
-- 🧠 Passionate about **Machine Learning for Scientific Discovery** and Healthcare
-- 📍 Based in **Bengaluru, India** - Let's grab coffee!
-- 🌐 Currently exploring how LLMs can revolutionize scientific knowledge generation
-- 💻 **Specialist** at <img src="https://sta.codeforces.com/s/39236/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="20"/>
+---
 
-## 🔬 Research & Publications
+```python
+while alive:
+    build_stuff()
+    drink_coffee()
+    question_everything()
+```
 
-- 📄 **[DiscoveryBench](https://arxiv.org/abs/2407.01725)** - Accepted at **ICLR'25**
-  *A benchmark for evaluating ML models in scientific discovery tasks* (co-author)
+---
 
-- 📄 **[DataVoyager](https://arxiv.org/abs/2402.13610)** - Accepted at **ICML'24**
-  *Data-driven scientific discovery using LLM Agents* (contribution)
+🧬 *one day i will blow all my money funding medical research. that's the plan.*
 
-## 💼 Professional Experience
-#### NwN | AI Engineer Intern
-#### Samagra | Code4GovTech DMP'24 (open source program)
-#### OpenLocus | Machine Learning Engineer Intern
+---
 
+codeforces 1519 specialist · iit (bhu) · bengaluru
 
-## ⚡ Fun Facts
-I am a avid traveller. From the beaches on the western flank to the heights of the Himalayas, I hunt for the offbeat locations. Aspire to take this global.
-
-
-## 📫 Let's Connect!
-I'm always open to interesting conversations and collaboration opportunities. Whether it's ML research, career advice, or just sharing travel stories over coffee in Bengaluru!
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="visitor badge"/>
-</p>
+📬 aryanpro2005@gmail.com · [linkedin](https://linkedin.com/in/aryan-prakhar) · [leetcode](https://leetcode.com/aryan-prakhar)
