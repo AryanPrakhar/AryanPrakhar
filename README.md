@@ -2,13 +2,12 @@
 
 i write code, break things, and published a paper at ICLR once.
 
-currently solving retrieval @ **Linux Foundation**  
-previously: ai eng @ Nation with Namo · open source @ Code for GovTech · ml @ OpenLocus.ai
+currently solving retrieval @ **krkn** - LFX Mentee  
+previously: ai engg @ nation with namo · open source @ code for govTech · mle @ openLocus.ai
 
 ---
 
 **into:** agentic systems · retrieval · competitive programming at 2am · travelling to offbeat places  
-**not into:** writing docs · meetings that could've been an email
 
 ---
 
@@ -26,5 +25,4 @@ while alive:
 ---
 
 codeforces 1519 specialist · iit (bhu) · bengaluru
-
-📬 aryanpro2005@gmail.com · [linkedin](https://linkedin.com/in/aryan-prakhar) · [leetcode](https://leetcode.com/aryan-prakhar)
+[linkedin](https://linkedin.com/in/aryan-prakhar) · [leetcode](https://leetcode.com/aryan-prakhar)
