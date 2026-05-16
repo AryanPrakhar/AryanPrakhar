@@ -1,28 +1,18 @@
-# hey, aryan here 👾
+# hey, i'm aryan 👾
 
-i write code, break things, and published a paper at ICLR once.
+I build AI systems that are useful outside notebooks.
 
-currently solving retrieval @ **krkn** - LFX Mentee  
-previously: ai engg @ nation with namo · open source @ code for govTech · mle @ openLocus.ai
+Currently working on retrieval and local AI tooling at **Krkn** as an **LFX Mentee**, where I’m building `krknctl-assist` - an assistant for Kubernetes chaos engineering workflows.
 
----
+Previously, I’ve worked on:
+- high-recall signal extraction from conversational indic dialected data
+- automated drafting of court orders
+- multi-agent systems and benchmarks for autonomous scientific discovery
 
-**into:** agentic systems · retrieval · competitive programming at 2am · travelling to offbeat places  
+Some of this work has appeared at **ICML 2024** and **ICLR 2025**.
 
----
+Based in Bengaluru · IIT (BHU) Varanasi
 
-```python
-while alive:
-    build_stuff()
-    drink_coffee()
-    question_everything()
-```
+### hit me up
 
----
-
-🧬 *one day i will blow all my money funding medical research. that's the plan.*
-
----
-
-codeforces 1519 specialist · iit (bhu) · bengaluru
-[linkedin](https://linkedin.com/in/aryan-prakhar) · [leetcode](https://leetcode.com/aryan-prakhar)
+DM me on [LinkedIn](https://linkedin.com/in/aryan-prakhar) — easiest way to reach me.
